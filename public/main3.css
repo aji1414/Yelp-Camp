@@ -1,0 +1,37 @@
+.thumbnail img {
+	width:100%;
+}
+
+.thumbnail{
+	padding:0;
+}
+
+
+.thumbnail .caption-full {
+	padding:9px;
+}
+
+.jumbotron{
+	background: rgba(61, 185, 252, 1)
+}
+
+#deleteForm{
+	display:inline;
+}
+
+#deleteComment{
+	display:inline;
+}
+
+/*  for landing page */
+/* body {
+  background-color: #000;
+	color:green;
+} */
+/* Now we need to position the welcome text and view all campgrounds buton: */
+/* #landing-header {
+  z-index: 1;
+  position: relative;
+  text-align: center;
+  padding-top: 40vh;
+} */
